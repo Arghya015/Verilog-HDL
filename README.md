@@ -7,7 +7,7 @@ A collection of **Verilog HDL implementations and practice problems** focused on
 ## Author
 
 **Arghya Roy**
-B.Tech – Electronics & Communication (VLSI)
+B.Tech – Electronics (VLSI)
 Focus areas: Digital Design, Embedded Systems, IoT
 
 ## Repository Structure
