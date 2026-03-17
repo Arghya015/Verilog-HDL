@@ -5,9 +5,6 @@ module top_module (
 
 always @(*) begin
     case (in)
-        4'b0000: pos = 0;
-        4'b0001: pos = 0;
-        4'b0010: pos = 1;
         4'b0011: pos = 0;
         4'b0100: pos = 2;
         4'b0101: pos = 0;
